@@ -1,0 +1,8 @@
+plt.figure(figsize=(10, 6))
+plt.plot(gps_data['longitude'], gps_data['latitude'], label='Original GPS', alpha=0.6)
+plt.plot(gps_data['longitude_filtered'], gps_data['latitude_filtered'], label='Kalman Filter Prediction', alpha=0.8)
+plt.xlabel('Longitude')
+plt.ylabel('Latitude')
+plt.legend()
+plt.title('GPS Data and Kalman Filter Prediction')
+plt.show()
