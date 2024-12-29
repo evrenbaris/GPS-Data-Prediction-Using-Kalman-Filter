@@ -33,18 +33,5 @@ The Kalman Filter is a powerful mathematical tool for tracking and predicting st
    ```
 4. Run the notebook to simulate GPS data and apply the Kalman Filter.
 
-## Project Structure
-- `gps_data_simulation.ipynb`: The main notebook containing the project code.
-- `README.md`: Documentation for the project.
 
-## Example Output
-Below is an example visualization showing the original noisy GPS data and the Kalman Filter predictions:
-
-![Example Output](example-output.png)
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Acknowledgments
-- Inspired by real-world applications of Kalman Filters in GPS tracking and navigation systems.
 
