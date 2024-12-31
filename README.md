@@ -23,7 +23,7 @@ The Kalman Filter is a powerful mathematical tool for tracking and predicting st
 ## Installation and Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/gps-kalman-filter.git
+   git clone https://github.com/evrenbaris/gps-kalman-filter.git
    ```
 
 2. Open the project in Google Colab.
